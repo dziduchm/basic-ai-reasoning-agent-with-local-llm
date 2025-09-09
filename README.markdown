@@ -130,6 +130,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaboration, reach out to [mr_dzi](https://github.com/dziduchm) via GitHub or X.com [@MarcinDziduch](https://x.com/MarcinDziduch).
+For questions or collaboration, reach out to [Marcin](https://github.com/dziduchm) via GitHub or X.com [@MarcinDziduch](https://x.com/MarcinDziduch).
 
 ---
