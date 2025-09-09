@@ -124,12 +124,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- Built with guidance from xAI’s Grok, showcasing advanced AI development expertise.
+- Built with assistance from xAI’s Grok, showcasing advanced AI development expertise.
 - Inspired by the LangChain and LangGraph communities for their innovative tools.
 - Thanks to the Ollama project for enabling local LLM deployment.
 
 ## Contact
 
-For questions or collaboration, reach out to [mr_dzi](https://github.com/dziduchm) via GitHub or email at [your-email@example.com](mailto:your-email@example.com).
+For questions or collaboration, reach out to [mr_dzi](https://github.com/dziduchm) via GitHub or X.com [@MarcinDziduch](https://x.com/MarcinDziduch).
 
 ---
