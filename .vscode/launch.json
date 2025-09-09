@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: Debug app/src/main.py",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/app/src/main.py",
+            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/app",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/app"
+            }
+        }
+    ]
+}

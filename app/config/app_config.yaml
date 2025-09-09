@@ -1,0 +1,9 @@
+# App settings (e.g., LLM model, chunk size)
+
+llm_config:
+  model: "llama3.1"
+  base_url: "http://host.docker.internal:11434"
+chunking:
+  default_size: 500
+input: 
+  input_file: "/workspaces/ai-app/app/documents/sample.txt"

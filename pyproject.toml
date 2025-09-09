@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "ai-app"
+version = "0.1.0"
+description = "Local Document QA System using LangGraph and local LLMs"
+authors = ["mr_dzi"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+langchain = "^0.3.2"
+langgraph = "^0.2.34"  # Corrected package name; pinned to a stable version
+langchain-community = "^0.3.3"  # For community tools (e.g., file readers)
+langchain-ollama = "^0.2.0"  # For Ollama LLM integration
+pydantic = "^2.9.2"  # For state schema in LangGraph
+pytest = "^8.3.3"  # For unit and integration tests
+numpy = "1.26.4"  # For potential data processing
+pandas = "2.2.2"  # For structured data handling (optional)
+jupyterlab = "4.2.1"  # For interactive development (optional)
+
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
